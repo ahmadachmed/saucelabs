@@ -13,7 +13,7 @@
     ```
 
 * How to run all testcases
-      ```sh
+    ```sh
     robot --outputdir output testcases/*.robot
     ```
 
